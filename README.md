@@ -1,5 +1,5 @@
-# raytracer
-Raytracer built from peter shirleys Raytracing in one weekend series
+# Raytracer
+Raytracer built from Peter Shirleys [Raytracing in one weekend series](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 
 
 ### Prerequisites
